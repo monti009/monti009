@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @monti009
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Привет, я @monti009
+- 👀 Я интересуюсь python 
+- 🌱 В настоящее время я изучаю python
+- 💞️ Я ищу сотрудничество...
+- 📫 Как со мной связаться trefsq@yandex.ru 89156378031
 
 <!---
 monti009/monti009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
